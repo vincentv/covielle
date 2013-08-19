@@ -1,0 +1,2 @@
+bundle :git => "https://github.com/ex/example.git"
+bundle :file => "./test_file"

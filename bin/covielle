@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'covielle'
+require 'covielle/cli'
+
+Covielle::Cli.start

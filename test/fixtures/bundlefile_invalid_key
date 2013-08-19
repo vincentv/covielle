@@ -1,0 +1,1 @@
+bundle :git => "https://github.com/ex/example.git", :invopt => "invalid option"
